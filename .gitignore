@@ -1,5 +1,10 @@
+usercache.json
+usernamecache.json
+
 logs
 saves
+crash-reports
+screenshots
 
 *.jar
 
