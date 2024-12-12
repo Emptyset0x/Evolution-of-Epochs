@@ -1,0 +1,10 @@
+logs
+saves
+
+*.jar
+
+config/forge.cfg
+config/forgeChunkLoading.cfg
+config/splash.properties
+
+icon.png
