@@ -1,5 +1,11 @@
 #priority 4000
 
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+
+import mods.zenstages.ZenStager;
+
+import scripts.crafttweaker.Stages.stageDisabled;
 zenClass RecipeUtil {
 	zenConstructor() {
 	}
