@@ -1,10 +1,11 @@
 usercache.json
 usernamecache.json
-
 logs
 saves
 crash-reports
 screenshots
+*.log
+journeymap/data
 
 *.jar
 *.zip
@@ -15,4 +16,4 @@ config/forgeChunkLoading.cfg
 config/splash.properties
 
 icon.png
-*.log
+
