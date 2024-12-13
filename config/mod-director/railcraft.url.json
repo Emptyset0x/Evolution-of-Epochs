@@ -2,8 +2,7 @@
 	"url": "https://mirror-mods.technicpack.net/mods/railcraft/railcraft-1.12.2-12.1.0-beta-8.2.1-technic.zip",
 	"installationPolicy":
 	{
-		"extract": true,
-		"deleteAfterExtract": true
+		"extract": true
 	},
 	"folder": ""
 }

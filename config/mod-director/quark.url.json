@@ -2,8 +2,7 @@
 	"url": "https://mirror-mods.technicpack.net/mods/quark/quark-1.12.2-r1.6-185-technic.zip",
 	"installationPolicy":
 	{
-		"extract": true,
-		"deleteAfterExtract": true
+		"extract": true
 	},
 	"folder": ""
 }
