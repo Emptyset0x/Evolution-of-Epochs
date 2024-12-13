@@ -7,9 +7,12 @@ crash-reports
 screenshots
 
 *.jar
+*.zip
+mods
 
 config/forge.cfg
 config/forgeChunkLoading.cfg
 config/splash.properties
 
 icon.png
+*.log
