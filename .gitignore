@@ -11,9 +11,15 @@ journeymap/data
 *.zip
 mods
 
-config/forge.cfg
-config/forgeChunkLoading.cfg
-config/splash.properties
-
 icon.png
+
+hei_bookmarks.ini
+patchouli_data.json
+
+config
+journeymap
+options.txt
+vintagefix
+local
+
 
