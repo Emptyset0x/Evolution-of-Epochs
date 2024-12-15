@@ -5,7 +5,6 @@ saves
 crash-reports
 screenshots
 *.log
-journeymap/data
 
 *.jar
 *.zip
@@ -17,10 +16,11 @@ hei_bookmarks.ini
 patchouli_data.json
 
 config/*
-journeymap/
+journeymap/*
+vintagefix/*
+local/*
+
 options.txt
-vintagefix/
-local/
 
 !config/mod-diretor
 !config/defaultworldgenerator-port
