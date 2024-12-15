@@ -16,10 +16,11 @@ icon.png
 hei_bookmarks.ini
 patchouli_data.json
 
-config
-journeymap
+config/*
+journeymap/
 options.txt
-vintagefix
-local
+vintagefix/
+local/
 
-
+!config/mod-diretor
+!config/defaultworldgenerator-port
