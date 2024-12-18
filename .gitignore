@@ -8,7 +8,9 @@ screenshots
 
 *.jar
 *.zip
-mods
+.index
+1.12.2
+memory_repo
 
 icon.png
 
@@ -26,3 +28,5 @@ options.txt
 !config/defaultworldgenerator-port
 !config/scalinghealth
 !config/firstaid.cfg
+
+!scripts
